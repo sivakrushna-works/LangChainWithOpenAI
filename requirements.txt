@@ -3,3 +3,6 @@ python-dotenv
 langchain
 langchain-openai
 langsmith
+langchain_community
+faiss-cpu
+beautifulsoup4
